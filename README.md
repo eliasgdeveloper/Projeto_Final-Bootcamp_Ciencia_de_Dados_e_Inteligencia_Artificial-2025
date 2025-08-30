@@ -93,7 +93,7 @@ O sistema utiliza dados de sensores IoT para prever falhas em máquinas industri
 
 ```bash
 # 1. Clonar repositório
-git clone https://github.com/seu-usuario/sistema-manutencao-preditiva.git
+git clone git@github.com:eliasgdeveloper/Projeto_Final-Bootcamp_Ciencia_de_Dados_e_Inteligencia_Artificial-2025.git
 cd sistema-manutencao-preditiva
 
 # 2. Criar ambiente virtual
@@ -119,7 +119,7 @@ streamlit run dashboard.py --server.port 8501
 
 ```bash
 # 1. Clonar repositório
-git clone https://github.com/seu-usuario/sistema-manutencao-preditiva.git
+git clone git@github.com:eliasgdeveloper/Projeto_Final-Bootcamp_Ciencia_de_Dados_e_Inteligencia_Artificial-2025.git
 cd sistema-manutencao-preditiva
 
 # 2. Deploy completo
@@ -259,7 +259,7 @@ Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICEN
 
 ## 🙏 Agradecimentos
 
-- **Bootcamp CDIA** pela oportunidade de aprendizado
+- **Bootcamp Ciência de Dados e Inteligência Artificial - 2025 - SENAI/SC** pela oportunidade de aprendizado
 - **Comunidade Open Source** pelas ferramentas utilizadas
 - **Instrutores** pelo suporte e orientação
 
@@ -274,7 +274,7 @@ Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICEN
 
 <div align="center">
 
-**🔧 Sistema de Manutenção Preditiva** | Bootcamp CDIA 2025
+**🔧 Sistema de Manutenção Preditiva** | Bootcamp Ciência de Dados e Inteligência Artificial - 2025 - SENAI/SC
 
 Desenvolvido com ❤️ e muito ☕
 
