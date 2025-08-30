@@ -1,6 +1,29 @@
-# 🔧 Sistema Inteligente de Manutenção Preditiva
+Autor: **Elias Gomes**  
+# Projeto Final-Bootcamp Ciência de Dados e Inteligência Artificial - 2025 - SENAI/SC
 
-**Projeto Final - Bootcamp Ciência de Dados e Inteligência Artificial - 2025**
+## 🌐 Acesse o Dashboard Interativo  
+
+Quer explorar os dados de forma dinâmica e interativa?  
+Clique no link abaixo para acessar a versão completa online, com filtros, navegação e análises avançadas:  
+
+🔗 **[Ciência_de_Dados_e_Inteligência_Artificial-SENAI/SC]** 
+**(https://eliasgdeveloper-projeto-final-bootcamp-ciencia-dashboard-nzxkat.streamlit.app/)**  
+
+💡 No dashboard você pode:  
+- Interagir com gráficos dinâmicos e responsivos  
+- Filtrar períodos específicos para análises temporais  
+- Explorar insights adicionais que vão além do documentado aqui no repositório  
+
+📊 Principais análises disponíveis:  
+- **Distribuição de Risco por Tipo de Máquina**  
+- **Distribuição de Probabilidades de Falhas**  
+- **Top 10 Máquinas de Maior Risco**  
+- **Tendência de Falhas ao Longo do Tempo**  
+- **Análise de Custos de Manutenção Preditiva vs. Corretiva**  
+- **Comparativo de Performance entre Equipamentos**  
+
+**(https://github.com/eliasgdeveloper/Projeto_Final-Bootcamp_Ciencia_de_Dados_e_Inteligencia_Artificial-2025)**
+
 
 Sistema completo para predição de falhas em máquinas industriais usando dados de sensores IoT, desenvolvido com Machine Learning e tecnologias modernas.
 
