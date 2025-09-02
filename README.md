@@ -12,7 +12,9 @@ Clique no link abaixo para acessar a versão completa online, com filtros, naveg
 💡 No dashboard você pode:  
 - Interagir com gráficos dinâmicos e responsivos  
 - Filtrar períodos específicos para análises temporais  
-- Explorar insights adicionais que vão além do documentado aqui no repositório  
+- Explorar insights adicionais que vão além do documentado aqui no repositório
+  
+-  Principal arquivo do projeto é o Notebook: "Projeto_Manutencao_Preditiva.ipynb"
 
 📊 Principais análises disponíveis:  
 - **Distribuição de Risco por Tipo de Máquina**  
@@ -253,13 +255,15 @@ recommendations = analyzer.generate_maintenance_recommendations(predictions)
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
+   Obs.: Documentção extra com índices no arquivo: "RELATORIO_COMPLETO.pdf"
+
 ## 📄 Licença
 
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ## 🙏 Agradecimentos
 
-- **Bootcamp Ciência de Dados e Inteligência Artificial - 2025 - SENAI/SC** pela oportunidade de aprendizado
+- **Bootcamp Ciência de Dados e Inteligência Artificial - 2025 - UniSENAI - SENAI SC** pela oportunidade de aprendizado
 - **Comunidade Open Source** pelas ferramentas utilizadas
 - **Instrutores** pelo suporte e orientação
 
@@ -274,8 +278,8 @@ Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICEN
 
 <div align="center">
 
-**🔧 Sistema de Manutenção Preditiva** | Bootcamp Ciência de Dados e Inteligência Artificial - 2025 - SENAI/SC
+**🔧 Sistema de Manutenção Preditiva** | Bootcamp Ciência de Dados e Inteligência Artificial - 2025 - UniSENAI - SENAI SC
 
-Desenvolvido com ❤️ e muito ☕
+Desenvolvido com ❤️ e muito ☕ por Elias Gomes
 
 </div>
